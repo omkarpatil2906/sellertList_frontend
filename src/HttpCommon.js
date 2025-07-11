@@ -1,0 +1,1 @@
+export const CommonApiUrl ="https://sellerlist-backend-1.onrender.com";
